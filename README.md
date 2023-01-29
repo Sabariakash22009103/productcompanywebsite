@@ -591,11 +591,17 @@ body{
 ### Home Page:
 ![ex71](https://user-images.githubusercontent.com/119390227/215340858-c29f82d6-dbf1-4c1f-9285-9e79f3379bda.png)
 
+
+
 ### product page:
 ![ex72](https://user-images.githubusercontent.com/119390227/215340887-4af82829-dc3b-4fb4-925d-ac73e022a9d4.png)
 
+
+
 ### people page:
 ![ex73](https://user-images.githubusercontent.com/119390227/215340913-6fdd39d0-00e5-453c-8128-b4f4847d3553.png)
+
+
 
 ### contact page
 ![ex74](https://user-images.githubusercontent.com/119390227/215340950-282bcda3-c0c5-4f6f-8202-233498481628.png)
