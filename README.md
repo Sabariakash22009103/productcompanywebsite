@@ -291,6 +291,7 @@ body{
   text-align: left; 
 }
  ```
+ ```
  # home.html:
  <!DOCTYPE html>
 <html lang="en">
@@ -342,7 +343,8 @@ body{
     </div>
   </body>
 </html>
-
+```
+```
 # products.html:
 <!DOCTYPE html>
 <html lang="en">
@@ -468,7 +470,8 @@ body{
     </div>
   </body>
 </html>
-
+```
+```
 # people.html:
 <!DOCTYPE html>
 <html lang="en">
@@ -551,7 +554,8 @@ body{
      </div>
      </body>
 </html>
-
+```
+```
 # contact.html:
 <!DOCTYPE html>
 <html lang="en">
@@ -619,7 +623,7 @@ body{
     </body>
 
 </html>
-
+```
 ## OUTPUT:
 
 ### Home Page:
